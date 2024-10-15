@@ -14,4 +14,4 @@
 
 ### Connect with me:
 
-[FranciscoDiaz.dev](https://FranciscoDiaz.dev) | [github.com/FMGameDev](https://github.com/FranciscoDiaz-dev) | [linkedin.com/in/fr-diaz](https://www.linkedin.com/in/FranciscoDiaz-dev/)
+[FranciscoDiaz.dev](https://FranciscoDiaz.dev) | [github.com/FranciscoDiaz-dev](https://github.com/FranciscoDiaz-dev) | [linkedin.com/in/FranciscoDiaz-dev](https://www.linkedin.com/in/FranciscoDiaz-dev/)
